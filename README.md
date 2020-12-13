@@ -7,4 +7,5 @@ Look at folder
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/omarelsafy-crypto-data--ri756oqn/tree)
+[![Binder](https://mybinder.org/badge_logo.svg)]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OmarElsafy/Crypto-Data-/HEAD)
+
